@@ -4,6 +4,20 @@
 本附加包不隶属于Among Us或Innersloth LLC，其中包含的内容不受Innersloth LLC的认可或以其他方式赞助。其中包含的部分材料是Innersloth LLC的财产。©Innersloth LLC。
 </p>
 
+# 兼容版本
+<table>
+    <tr align="center">
+        <td>附加包版本</td>
+        <td>NoS版本</td>
+        <td>AU版本</td>
+    </tr>
+    <tr>
+        <td>0.1</td>
+        <td>Snapshot 24.06.20a</td>  
+        <td>2024.6.18s</td>
+    </tr>
+</table>
+
 # 如何安装
 
 0. 下载本附加包和<a href="https://github.com/Dolly1016/Nebula/releases/latest">Nebula on the ship</a>
