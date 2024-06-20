@@ -6,6 +6,9 @@
 
 # 如何安装
 
-<p align="center">
-安装好Nebula on the ship后，先启动游戏（如果是安装模组后的第一次启动的话），然后打开游戏目录，里面可以看到Addons文件夹，将下载的zip放进去再打开游戏即可。
-</p>
+0. 下载本附加包和<a href="https://github.com/Dolly1016/Nebula/releases/latest">Nebula on the ship</a>
+1. 安装<a href="https://github.com/Dolly1016/Nebula/releases/latest">Nebula on the ship</a>
+1.5. 启动游戏（如果是安装模组后的第一次启动的话）
+2. 然后打开游戏根目录
+3. 打开Addons文件夹
+4. 将下载到的zip放进去再打开游戏即可。
