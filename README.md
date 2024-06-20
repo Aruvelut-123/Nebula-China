@@ -13,8 +13,8 @@
     </tr>
     <tr>
         <td>0.1</td>
-        <td>Snapshot 24.06.20a</td>  
-        <td>2024.6.18s</td>
+        <td><a href="https://github.com/Dolly1016/Nebula/releases/tag/s%2CSnapshot_24.06.20a%2C104%2C1144">Snapshot 24.06.20a</a></td>  
+        <td><a href="https://store.steampowered.com/news/app/945360/view/4145080939170955852">2024.6.18s</a></td>
     </tr>
 </table>
 
